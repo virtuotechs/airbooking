@@ -1,0 +1,6 @@
+# Build Output
+.next
+
+# Dependencies
+node_modules/
+package-lock.json
