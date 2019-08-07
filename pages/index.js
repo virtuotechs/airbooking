@@ -769,7 +769,7 @@ class Index extends React.Component {
 												<img src='static/images/image04.jpg' width='100%' alt=''></img>
 											</div>
 											<h5>THOUGHTFUL SERVICE</h5>
-											<p>" Support Free Support Related Information. "</p>
+											<p>" Support Free Support Related Information "</p>
 										</Col>
 									</Row>
 								</Col>
